@@ -1,0 +1,20 @@
+/* styles.css */
+
+/* Custom styles for the portfolio */
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  /* Additional customizations as needed */
+  
